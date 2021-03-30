@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 // variabel = tempat utk menyimpan data
 // variable mutable(/bisa diubah) dengan " var ", yg immutable gunakan " val "
 // direkomendasikan memakai immutable variable terlebih dahulu ( val )

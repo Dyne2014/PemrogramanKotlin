@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 // fitur ini tdk ada dijava
 // hasil yg dikeluarkan akan tetap sama walaupun tidak berurutan dengan pemanggilang

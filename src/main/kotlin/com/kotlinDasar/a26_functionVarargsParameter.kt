@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 // posisi vararg harus di ujung, nggak boleh di tengah tengah atau di awal
 

@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 fun String.hello(): String = "Hello $this"
 fun String.printHello(): Unit = println("Hello $this")

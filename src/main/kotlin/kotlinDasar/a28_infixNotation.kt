@@ -1,5 +1,0 @@
-package kotlinDasar
-
-fun main(){
-
-}

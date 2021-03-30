@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 fun main(){
     sayHello("ade","sh")

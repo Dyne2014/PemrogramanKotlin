@@ -1,6 +1,6 @@
 @file:Suppress("NAME_SHADOWING")
 
-package kotlinDasar
+package com.kotlinDasar
 
 fun main(){
     var i = 0

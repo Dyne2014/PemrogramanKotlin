@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 // array adalah tipe data yg berisi kumpulan data dg tipe yg sama, direpresentasikan kata kunci Array
 fun main(){

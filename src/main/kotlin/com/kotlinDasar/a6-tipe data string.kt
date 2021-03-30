@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 // string adalah teks
 // string memakai dengan " " atau """ """ utk kalimat lebih dari 1 baris
 fun main(){

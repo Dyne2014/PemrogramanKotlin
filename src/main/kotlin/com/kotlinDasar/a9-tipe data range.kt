@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 // utk membuat array yg berisi berurutan, yg biasanya utk digunakan sbg perulangan
 // membuat tipe data range cukup seperti 1..10

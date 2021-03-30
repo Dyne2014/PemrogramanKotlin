@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 fun main(){
     val a = 100

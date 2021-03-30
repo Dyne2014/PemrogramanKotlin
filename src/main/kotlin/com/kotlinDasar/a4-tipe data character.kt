@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 
 // utk character menggunakan ' ' ; sedangkan string memakai " "
 // character tdk boleh lebih dari 1 huruf, kalau lebih berarti string

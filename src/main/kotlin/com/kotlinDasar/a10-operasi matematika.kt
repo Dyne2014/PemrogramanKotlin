@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 // operasi hampir sama seperti pada java, dimana integer 10 bagi 3 akan menghasilkan integer scr default, bukan double/decimal
 
 fun main(){

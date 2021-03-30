@@ -1,4 +1,4 @@
-package kotlinDasar
+package com.kotlinDasar
 // eksekusi dulu baru looping
 fun main(){
 //    var i = 11
